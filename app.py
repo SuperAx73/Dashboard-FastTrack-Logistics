@@ -250,7 +250,7 @@ with st.sidebar:
     st.markdown(
         "**Alumno:** Axiel Urenda  \n"
         "**Posgrado:** Maestría en Ciencias Computacionales  \n"
-        "**Matrícula:** PENDIENTE  \n"
+        "**Matrícula:** 360262  \n"
         f"**Registros:** {len(df)} viajes  \n"
         "**Archivo:** `datos_logistica_transporte.csv`"
     )
