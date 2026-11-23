@@ -1,0 +1,5 @@
+.venv/
+realtor-data.zip.csv
+__pycache__/
+.DS_Store
+usa-real-estate-dataset-original.zip
